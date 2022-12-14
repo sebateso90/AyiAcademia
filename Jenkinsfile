@@ -21,9 +21,9 @@ node {
 
         customImage.push()
     
-    stage "Unit Test"
+    //stage "Unit Test"
 
-        teste = "fullstack"
+        //teste = "fullstack"
 
 
     stage "Deploy PROD"
